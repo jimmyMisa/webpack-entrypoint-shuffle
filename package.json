@@ -1,0 +1,21 @@
+{
+  "name": "webpack-entrypoint-shuffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage":"https://github.com/jimmyMisa/webpack-entrypoint-shuffle.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyMisa/webpack-entrypoint-shuffle.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "entrypoint-shuffle": "./bin/entrypoint-shuffle.js"
+  },
+  "keywords": [],
+  "author": "jimmysk5 <jimmy.samuel.andriamparany.pro@gmail.com>",
+  "license": "ISC",
+  "type": "module"
+}
