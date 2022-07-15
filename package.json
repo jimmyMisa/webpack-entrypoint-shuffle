@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage":"https://github.com/jimmyMisa/webpack-entrypoint-shuffle.git",
+  "homepage": "https://github.com/jimmyMisa/webpack-entrypoint-shuffle.git",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jimmyMisa/webpack-entrypoint-shuffle.git"
